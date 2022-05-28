@@ -1,0 +1,22 @@
+{
+    "Afrikaans": {"native": "Afrikaans", "tag": "af", "iso": "za"},
+    "Amharic": {"native": "አማርኛ", "tag": "am", "iso": "et"},
+    "Arabic": {"native": "العربية", "tag": "ar", "iso": "eg"},
+    "Hindi": {"native": "हिंदी", "tag": "as", "iso": "in"},
+    "Belarusian": {"native": "беларуская", "tag": "be", "iso": "by"},
+    "Bulgarian": {"native": "български", "tag": "bg", "iso": "bg"},
+    "Tibetan": {"native": "བོད་ཡིག", "tag": "bo", "iso": "cn"},
+    "Czech": {"native": "čeština", "tag": "cs", "iso": "cz"},
+    "Danish": {"native": "dansk", "tag": "da", "iso": "dk"},
+    "German": {"native": "deutsch", "tag": "de", "iso": "de"},
+    "Greek": {"native": "ελληνικά", "tag": "el", "iso": "gr"},
+    "English": {"native": "English", "tag": "en", "iso": "en"},
+    "Spanish": {"native": "español", "tag": "es", "iso": "es"},
+    "Finnish": {"native": "suomi", "tag": "fi", "iso": "fi"},
+    "French": {"native": "français", "tag": "fr", "iso": "fr"},
+    "Hebrew": {"native": "עברית", "tag": "he", "iso": "il"},
+    "Croatian": {"native": "hrvatski", "tag": "hr", "iso": "hr"},
+    "Italian": {"native": "italiano", "tag": "it", "iso": "it"},
+    "Dutch": {"native": "Nederlands", "tag": "nl", "iso": "nl"},
+    "Polish": {"native": "polski", "tag": "pl", "iso": "pl"}
+}
